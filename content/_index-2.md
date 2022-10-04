@@ -1,7 +1,7 @@
 ---
-subtitle: "Hello, I'm"
-title: "Chris Impey"
-image: "/images/author/chris-impey.jpg"
+subtitle: "A new"
+title: "Political party"
+image: "/images/author/chris-impey.jpeg"
 
-description: "A writer based in New York City. I'm interested in all things tech, science, and photography related, and likes to yo-yo in my free time."
+description: "We are building the political party of the future. More representation for you, and a single app to stay connected with everything in your country"
 ---
