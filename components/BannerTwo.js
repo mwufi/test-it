@@ -1,5 +1,5 @@
 import {
-  IconBrandFacebook,
+  IconBrandStripe,
   IconBrandGithub,
   IconBrandInstagram,
   IconBrandLinkedin,
@@ -41,13 +41,13 @@ export default function BannerBlock({ banner: { frontMatter } }) {
                 <ul className={`social-share icon-box mt-4 pt-2`}>
                   <li className="d-inline-block me-2 mb-2">
                     <a
-                      aria-label="facebook"
-                      href="https://facebook.com"
+                      aria-label="stripe"
+                      href="https://buy.stripe.com/00g3fQgmx1tCdXy5km"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i>
-                        <IconBrandFacebook size={18} />
+                        <IconBrandStripe size={18} />
                       </i>
                     </a>
                   </li>
