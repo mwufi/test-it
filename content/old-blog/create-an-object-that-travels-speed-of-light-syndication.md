@@ -3,7 +3,7 @@ title: "Creating an object that travels at 1% the speed of light?"
 description: "Light is fast. In fact, it is the fastest thing that exists, and a law of the universe is that nothing can move faster than light. Light travels at 186,000 miles per second (300,000 kilometers per second) and can go from the Earth to the Moon in just over a second. Light can streak from Los Angeles to New York in less than the blink of an eye."
 image: "/images/blog/03.jpg"
 date: "2021-11-17T12:15:57+06:00"
-author: "Chris Impey"
+author: "Zen Tang"
 categories: ["Earth"]
 tags: ["Life", "Lighting"]
 ---
