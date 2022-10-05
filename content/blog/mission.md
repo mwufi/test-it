@@ -1,6 +1,6 @@
 ---
 title: "Our Mission"
-description: ""
+description: "Allogov is meant for you to have greater say in your government. What does it mean to live, in the 21st century? How do modernity and society and citizenship take place in our lives?"
 image: "/images/blog/01.jpeg"
 date: "2022-07-10T16:56:47+06:00"
 author: "Zen Tang"
