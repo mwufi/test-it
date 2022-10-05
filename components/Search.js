@@ -29,7 +29,7 @@ export default function Search() {
     const getResults = async () => {
       const res = await fetch("/api/search");
       const post = await res.json();
-      setshowSearchResults(post);
+      setshowSearchResults(JSON.parse(post));
     };
     getResults();
   }, []);
